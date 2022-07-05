@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/5.4/language.xsd" languagecode="it" languagename="Italiano" countrycode="it">
+	<import>
+		<category name="test1">
+			<item name="test1.test1">Dummy</item>
+			<item name="test1.test2">Dummy</item>
+			<item name="test1.test3">Dummy</item>
+		</category>
+		<category name="test2">
+			<item name="test2.test1">Dummy</item>
+			<item name="test2.test2">Dummy</item>
+			<item name="test2.test3">Dummy</item>
+		</category>
+	</import>
+</language>

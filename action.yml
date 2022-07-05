@@ -1,0 +1,4 @@
+name: 'Checks language-files for packages based on github.com/WoltLab/WCF'
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
